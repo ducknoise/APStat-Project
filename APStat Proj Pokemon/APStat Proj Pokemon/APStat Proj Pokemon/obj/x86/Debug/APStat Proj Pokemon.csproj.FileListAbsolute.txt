@@ -1,0 +1,221 @@
+c:\users\noam\documents\visual studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\noam\documents\visual studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\noam\documents\visual studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Bug.xnb
+c:\users\noam\documents\visual studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Dark.xnb
+c:\users\noam\documents\visual studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Dragon.xnb
+c:\users\noam\documents\visual studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Electric.xnb
+c:\users\noam\documents\visual studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Fighting.xnb
+c:\users\noam\documents\visual studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Fire.xnb
+c:\users\noam\documents\visual studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Flying.xnb
+c:\users\noam\documents\visual studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Ghost.xnb
+c:\users\noam\documents\visual studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Grass.xnb
+c:\users\noam\documents\visual studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Ground.xnb
+c:\users\noam\documents\visual studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Ice.xnb
+c:\users\noam\documents\visual studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Normal.xnb
+c:\users\noam\documents\visual studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Poison.xnb
+c:\users\noam\documents\visual studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Psychic.xnb
+c:\users\noam\documents\visual studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Rock.xnb
+c:\users\noam\documents\visual studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Water.xnb
+c:\users\noam\documents\visual studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\APStat Proj Pokemon.exe
+c:\users\noam\documents\visual studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\APStat Proj Pokemon.pdb
+c:\users\noam\documents\visual studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\obj\x86\Debug\APStat Proj Pokemon.exe
+c:\users\noam\documents\visual studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\obj\x86\Debug\APStat Proj Pokemon.pdb
+c:\users\noam\documents\visual studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\StartPic.xnb
+c:\users\noam\documents\visual studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\NormalFont.xnb
+c:\users\noam\documents\visual studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\titleFont.xnb
+C:\Users\Noam\documents\visual studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\InstructionsTemplate.xnb
+C:\Users\Noam\documents\visual studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Slide1.xnb
+C:\Users\Noam\documents\visual studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Slide2.xnb
+C:\Users\Noam\documents\visual studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Slide3.xnb
+C:\Users\Noam\documents\visual studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Slide4.xnb
+C:\Users\Noam\documents\visual studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Slide5.xnb
+\\artemis\14nlerner\my documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Bug.xnb
+\\artemis\14nlerner\my documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Dark.xnb
+\\artemis\14nlerner\my documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Dragon.xnb
+\\artemis\14nlerner\my documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Electric.xnb
+\\artemis\14nlerner\my documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Fighting.xnb
+\\artemis\14nlerner\my documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Fire.xnb
+\\artemis\14nlerner\my documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Flying.xnb
+\\artemis\14nlerner\my documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Ghost.xnb
+\\artemis\14nlerner\my documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Grass.xnb
+\\artemis\14nlerner\my documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Ground.xnb
+\\artemis\14nlerner\my documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Ice.xnb
+\\artemis\14nlerner\my documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Normal.xnb
+\\artemis\14nlerner\my documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Poison.xnb
+\\artemis\14nlerner\my documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Psychic.xnb
+\\artemis\14nlerner\my documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Rock.xnb
+\\artemis\14nlerner\my documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Water.xnb
+\\artemis\14nlerner\my documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\StartPic.xnb
+\\artemis\14nlerner\my documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\InstructionsTemplate.xnb
+\\artemis\14nlerner\my documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Slide1.xnb
+\\artemis\14nlerner\my documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Slide2.xnb
+\\artemis\14nlerner\my documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Slide3.xnb
+\\artemis\14nlerner\my documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Slide4.xnb
+\\artemis\14nlerner\my documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Slide5.xnb
+\\artemis\14nlerner\my documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\NormalFont.xnb
+\\artemis\14nlerner\my documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\titleFont.xnb
+\\artemis\14nlerner\my documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\APStat Proj Pokemon.exe
+\\artemis\14nlerner\my documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\APStat Proj Pokemon.pdb
+\\artemis\14nlerner\my documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\obj\x86\Debug\ResolveAssemblyReference.cache
+\\artemis\14nlerner\my documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+\\artemis\14nlerner\my documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\obj\x86\Debug\APStat Proj Pokemon.exe
+\\artemis\14nlerner\my documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\obj\x86\Debug\APStat Proj Pokemon.pdb
+C:\Users\Noam\Documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\1Type.xnb
+C:\Users\Noam\Documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\1TypeSelected.xnb
+C:\Users\Noam\Documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\2Type.xnb
+C:\Users\Noam\Documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\2TypeSelected.xnb
+C:\Users\Noam\Documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\3Type.xnb
+C:\Users\Noam\Documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\3TypeSelected.xnb
+C:\Users\Noam\Documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\4Type.xnb
+C:\Users\Noam\Documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\4TypeSelected.xnb
+C:\Users\Noam\Documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\5Type.xnb
+C:\Users\Noam\Documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\5TypeSelected.xnb
+C:\Users\Noam\Documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\6Type.xnb
+C:\Users\Noam\Documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\6TypeSelected.xnb
+C:\Users\Noam\documents\visual studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\SelectionBack.xnb
+C:\Users\Noam\documents\visual studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Pixel.xnb
+C:\Users\Noam\Documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Battle.xnb
+\\artemis\14nlerner\desktop\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Bug.xnb
+\\artemis\14nlerner\desktop\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Dark.xnb
+\\artemis\14nlerner\desktop\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Dragon.xnb
+\\artemis\14nlerner\desktop\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Electric.xnb
+\\artemis\14nlerner\desktop\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Fighting.xnb
+\\artemis\14nlerner\desktop\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Fire.xnb
+\\artemis\14nlerner\desktop\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Flying.xnb
+\\artemis\14nlerner\desktop\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Ghost.xnb
+\\artemis\14nlerner\desktop\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Grass.xnb
+\\artemis\14nlerner\desktop\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Ground.xnb
+\\artemis\14nlerner\desktop\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Ice.xnb
+\\artemis\14nlerner\desktop\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Normal.xnb
+\\artemis\14nlerner\desktop\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Poison.xnb
+\\artemis\14nlerner\desktop\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Psychic.xnb
+\\artemis\14nlerner\desktop\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Rock.xnb
+\\artemis\14nlerner\desktop\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Water.xnb
+\\artemis\14nlerner\desktop\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\StartPic.xnb
+\\artemis\14nlerner\desktop\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\InstructionsTemplate.xnb
+\\artemis\14nlerner\desktop\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Slide1.xnb
+\\artemis\14nlerner\desktop\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Slide2.xnb
+\\artemis\14nlerner\desktop\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Slide3.xnb
+\\artemis\14nlerner\desktop\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Slide4.xnb
+\\artemis\14nlerner\desktop\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Slide5.xnb
+\\artemis\14nlerner\desktop\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\1Type.xnb
+\\artemis\14nlerner\desktop\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\1TypeSelected.xnb
+\\artemis\14nlerner\desktop\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\2Type.xnb
+\\artemis\14nlerner\desktop\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\2TypeSelected.xnb
+\\artemis\14nlerner\desktop\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\3Type.xnb
+\\artemis\14nlerner\desktop\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\3TypeSelected.xnb
+\\artemis\14nlerner\desktop\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\4Type.xnb
+\\artemis\14nlerner\desktop\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\4TypeSelected.xnb
+\\artemis\14nlerner\desktop\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\5Type.xnb
+\\artemis\14nlerner\desktop\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\5TypeSelected.xnb
+\\artemis\14nlerner\desktop\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\6Type.xnb
+\\artemis\14nlerner\desktop\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\6TypeSelected.xnb
+\\artemis\14nlerner\desktop\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\SelectionBack.xnb
+\\artemis\14nlerner\desktop\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Pixel.xnb
+\\artemis\14nlerner\desktop\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Battle.xnb
+\\artemis\14nlerner\desktop\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\NormalFont.xnb
+\\artemis\14nlerner\desktop\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\titleFont.xnb
+\\artemis\14nlerner\desktop\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\APStat Proj Pokemon.exe
+\\artemis\14nlerner\desktop\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\APStat Proj Pokemon.pdb
+\\artemis\14nlerner\desktop\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\obj\x86\Debug\ResolveAssemblyReference.cache
+\\artemis\14nlerner\desktop\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+\\artemis\14nlerner\desktop\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\obj\x86\Debug\APStat Proj Pokemon.exe
+\\artemis\14nlerner\desktop\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\obj\x86\Debug\APStat Proj Pokemon.pdb
+C:\Users\Noam\Documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Bug.xnb
+C:\Users\Noam\Documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Dark.xnb
+C:\Users\Noam\Documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Dragon.xnb
+C:\Users\Noam\Documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Electric.xnb
+C:\Users\Noam\Documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Fighting.xnb
+C:\Users\Noam\Documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Fire.xnb
+C:\Users\Noam\Documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Flying.xnb
+C:\Users\Noam\Documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Ghost.xnb
+C:\Users\Noam\Documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Grass.xnb
+C:\Users\Noam\Documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Ground.xnb
+C:\Users\Noam\Documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Ice.xnb
+C:\Users\Noam\Documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Normal.xnb
+C:\Users\Noam\Documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Poison.xnb
+C:\Users\Noam\Documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Psychic.xnb
+C:\Users\Noam\Documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Rock.xnb
+C:\Users\Noam\Documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Water.xnb
+C:\Users\Noam\Documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\StartPic.xnb
+C:\Users\Noam\Documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\InstructionsTemplate.xnb
+C:\Users\Noam\Documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Slide1.xnb
+C:\Users\Noam\Documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Slide2.xnb
+C:\Users\Noam\Documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Slide3.xnb
+C:\Users\Noam\Documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Slide4.xnb
+C:\Users\Noam\Documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Slide5.xnb
+C:\Users\Noam\Documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\1Type.xnb
+C:\Users\Noam\Documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\1TypeSelected.xnb
+C:\Users\Noam\Documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\2Type.xnb
+C:\Users\Noam\Documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\2TypeSelected.xnb
+C:\Users\Noam\Documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\3Type.xnb
+C:\Users\Noam\Documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\3TypeSelected.xnb
+C:\Users\Noam\Documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\4Type.xnb
+C:\Users\Noam\Documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\4TypeSelected.xnb
+C:\Users\Noam\Documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\5Type.xnb
+C:\Users\Noam\Documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\5TypeSelected.xnb
+C:\Users\Noam\Documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\6Type.xnb
+C:\Users\Noam\Documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\6TypeSelected.xnb
+C:\Users\Noam\Documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\SelectionBack.xnb
+C:\Users\Noam\Documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Pixel.xnb
+C:\Users\Noam\Documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Battle.xnb
+C:\Users\Noam\Documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\NormalFont.xnb
+C:\Users\Noam\Documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\titleFont.xnb
+C:\Users\Noam\Documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\APStat Proj Pokemon.exe
+C:\Users\Noam\Documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\APStat Proj Pokemon.pdb
+C:\Users\Noam\Documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Noam\Documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\obj\x86\Debug\APStat Proj Pokemon.exe
+C:\Users\Noam\Documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\obj\x86\Debug\APStat Proj Pokemon.pdb
+\\artemis\14nlerner\my documents\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Bug.xnb
+\\artemis\14nlerner\my documents\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Dark.xnb
+\\artemis\14nlerner\my documents\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Dragon.xnb
+\\artemis\14nlerner\my documents\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Electric.xnb
+\\artemis\14nlerner\my documents\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Fighting.xnb
+\\artemis\14nlerner\my documents\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Fire.xnb
+\\artemis\14nlerner\my documents\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Flying.xnb
+\\artemis\14nlerner\my documents\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Ghost.xnb
+\\artemis\14nlerner\my documents\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Grass.xnb
+\\artemis\14nlerner\my documents\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Ground.xnb
+\\artemis\14nlerner\my documents\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Ice.xnb
+\\artemis\14nlerner\my documents\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Normal.xnb
+\\artemis\14nlerner\my documents\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Poison.xnb
+\\artemis\14nlerner\my documents\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Psychic.xnb
+\\artemis\14nlerner\my documents\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Rock.xnb
+\\artemis\14nlerner\my documents\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Water.xnb
+\\artemis\14nlerner\my documents\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\StartPic.xnb
+\\artemis\14nlerner\my documents\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\InstructionsTemplate.xnb
+\\artemis\14nlerner\my documents\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Slide1.xnb
+\\artemis\14nlerner\my documents\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Slide2.xnb
+\\artemis\14nlerner\my documents\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Slide3.xnb
+\\artemis\14nlerner\my documents\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Slide4.xnb
+\\artemis\14nlerner\my documents\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Slide5.xnb
+\\artemis\14nlerner\my documents\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\1Type.xnb
+\\artemis\14nlerner\my documents\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\1TypeSelected.xnb
+\\artemis\14nlerner\my documents\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\2Type.xnb
+\\artemis\14nlerner\my documents\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\2TypeSelected.xnb
+\\artemis\14nlerner\my documents\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\3Type.xnb
+\\artemis\14nlerner\my documents\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\3TypeSelected.xnb
+\\artemis\14nlerner\my documents\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\4Type.xnb
+\\artemis\14nlerner\my documents\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\4TypeSelected.xnb
+\\artemis\14nlerner\my documents\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\5Type.xnb
+\\artemis\14nlerner\my documents\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\5TypeSelected.xnb
+\\artemis\14nlerner\my documents\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\6Type.xnb
+\\artemis\14nlerner\my documents\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\6TypeSelected.xnb
+\\artemis\14nlerner\my documents\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\SelectionBack.xnb
+\\artemis\14nlerner\my documents\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Pixel.xnb
+\\artemis\14nlerner\my documents\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Battle.xnb
+\\artemis\14nlerner\my documents\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\NormalFont.xnb
+\\artemis\14nlerner\my documents\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\titleFont.xnb
+\\artemis\14nlerner\my documents\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\APStat Proj Pokemon.exe
+\\artemis\14nlerner\my documents\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\APStat Proj Pokemon.pdb
+\\artemis\14nlerner\my documents\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\obj\x86\Debug\ResolveAssemblyReference.cache
+\\artemis\14nlerner\my documents\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+\\artemis\14nlerner\my documents\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\obj\x86\Debug\APStat Proj Pokemon.exe
+\\artemis\14nlerner\my documents\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\obj\x86\Debug\APStat Proj Pokemon.pdb
+\\artemis\14nlerner\my documents\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\ClearPic.xnb
+C:\Users\Noam\Documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\ClearPic.xnb
+C:\Users\Noam\Documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\obj\x86\Debug\APStat Proj Pokemon.csprojResolveAssemblyReference.cache
+C:\Users\Noam\Documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\APStat Proj Pokemon.exe.manifest
+C:\Users\Noam\Documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\APStat Proj Pokemon.application
+C:\Users\Noam\Documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\obj\x86\Debug\APStat Proj Pokemon.exe.manifest
+C:\Users\Noam\Documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\obj\x86\Debug\APStat Proj Pokemon.application

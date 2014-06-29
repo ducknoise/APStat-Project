@@ -1,0 +1,4 @@
+c:\users\noam\documents\visual studio 2010\Projects\Probability Calculator\Probability Calculator\bin\Debug\Probability Calculator.exe
+c:\users\noam\documents\visual studio 2010\Projects\Probability Calculator\Probability Calculator\bin\Debug\Probability Calculator.pdb
+c:\users\noam\documents\visual studio 2010\Projects\Probability Calculator\Probability Calculator\obj\x86\Debug\Probability Calculator.exe
+c:\users\noam\documents\visual studio 2010\Projects\Probability Calculator\Probability Calculator\obj\x86\Debug\Probability Calculator.pdb

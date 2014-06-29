@@ -1,0 +1,5 @@
+c:\users\noam\documents\visual studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj PokemonContent\obj\x86\Debug\ResolveAssemblyReference.cache
+\\artemis\14nlerner\my documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj PokemonContent\obj\x86\Debug\ResolveAssemblyReference.cache
+\\artemis\14nlerner\desktop\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj PokemonContent\obj\x86\Debug\ResolveAssemblyReference.cache
+\\artemis\14nlerner\my documents\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj PokemonContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Noam\Documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj PokemonContent\obj\x86\Debug\APStat Proj PokemonContent.contentprojResolveAssemblyReference.cache

@@ -1,0 +1,415 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Bug.png</Source>
+      <Name>Bug</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Noam\Documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Bug.xnb</Output>
+      <Time>2013-03-05T19:01:04-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Dark.png</Source>
+      <Name>Dark</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Noam\Documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Dark.xnb</Output>
+      <Time>2013-03-05T19:01:04-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Dragon.png</Source>
+      <Name>Dragon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Noam\Documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Dragon.xnb</Output>
+      <Time>2013-03-05T19:01:04-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Electric.png</Source>
+      <Name>Electric</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Noam\Documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Electric.xnb</Output>
+      <Time>2013-03-05T19:01:04-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Fighting.png</Source>
+      <Name>Fighting</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Noam\Documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Fighting.xnb</Output>
+      <Time>2013-03-05T19:01:04-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Fire.png</Source>
+      <Name>Fire</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Noam\Documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Fire.xnb</Output>
+      <Time>2013-03-05T19:01:04-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Flying.png</Source>
+      <Name>Flying</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Noam\Documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Flying.xnb</Output>
+      <Time>2013-03-05T19:01:04-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Ghost.png</Source>
+      <Name>Ghost</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Noam\Documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Ghost.xnb</Output>
+      <Time>2013-03-05T19:01:04-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Grass.png</Source>
+      <Name>Grass</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Noam\Documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Grass.xnb</Output>
+      <Time>2013-03-05T19:01:04-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Ground.png</Source>
+      <Name>Ground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Noam\Documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Ground.xnb</Output>
+      <Time>2013-03-05T19:01:04-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Ice.png</Source>
+      <Name>Ice</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Noam\Documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Ice.xnb</Output>
+      <Time>2013-03-05T19:01:04-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Normal.png</Source>
+      <Name>Normal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Noam\Documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Normal.xnb</Output>
+      <Time>2013-03-05T19:01:04-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Poison.png</Source>
+      <Name>Poison</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Noam\Documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Poison.xnb</Output>
+      <Time>2013-03-05T19:01:04-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Psychic.png</Source>
+      <Name>Psychic</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Noam\Documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Psychic.xnb</Output>
+      <Time>2013-03-05T19:01:04-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Rock.png</Source>
+      <Name>Rock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Noam\Documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Rock.xnb</Output>
+      <Time>2013-03-05T19:01:04-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Water.png</Source>
+      <Name>Water</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Noam\Documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Water.xnb</Output>
+      <Time>2013-03-05T19:01:04-06:00</Time>
+    </Item>
+    <Item>
+      <Source>StartPic.jpg</Source>
+      <Name>StartPic</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Noam\Documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\StartPic.xnb</Output>
+      <Time>2013-03-05T21:12:30-06:00</Time>
+    </Item>
+    <Item>
+      <Source>InstructionsTemplate.png</Source>
+      <Name>InstructionsTemplate</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Noam\Documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\InstructionsTemplate.xnb</Output>
+      <Time>2013-03-05T23:47:52-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Slide1.jpg</Source>
+      <Name>Slide1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Noam\Documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Slide1.xnb</Output>
+      <Time>2013-03-08T00:19:16-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Slide2.jpg</Source>
+      <Name>Slide2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Noam\Documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Slide2.xnb</Output>
+      <Time>2013-03-08T00:20:08-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Slide3.png</Source>
+      <Name>Slide3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Noam\Documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Slide3.xnb</Output>
+      <Time>2013-03-08T00:21:12-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Slide4.png</Source>
+      <Name>Slide4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Noam\Documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Slide4.xnb</Output>
+      <Time>2013-03-08T00:21:44-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Slide5.png</Source>
+      <Name>Slide5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Noam\Documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Slide5.xnb</Output>
+      <Time>2013-03-08T00:22:06-06:00</Time>
+    </Item>
+    <Item>
+      <Source>1Type.png</Source>
+      <Name>1Type</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Noam\Documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\1Type.xnb</Output>
+      <Time>2013-03-06T16:15:12-06:00</Time>
+    </Item>
+    <Item>
+      <Source>1TypeSelected.png</Source>
+      <Name>1TypeSelected</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Noam\Documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\1TypeSelected.xnb</Output>
+      <Time>2013-03-06T16:15:12-06:00</Time>
+    </Item>
+    <Item>
+      <Source>2Type.png</Source>
+      <Name>2Type</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Noam\Documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\2Type.xnb</Output>
+      <Time>2013-03-06T16:15:12-06:00</Time>
+    </Item>
+    <Item>
+      <Source>2TypeSelected.png</Source>
+      <Name>2TypeSelected</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Noam\Documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\2TypeSelected.xnb</Output>
+      <Time>2013-03-06T16:15:12-06:00</Time>
+    </Item>
+    <Item>
+      <Source>3Type.png</Source>
+      <Name>3Type</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Noam\Documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\3Type.xnb</Output>
+      <Time>2013-03-06T16:15:12-06:00</Time>
+    </Item>
+    <Item>
+      <Source>3TypeSelected.png</Source>
+      <Name>3TypeSelected</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Noam\Documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\3TypeSelected.xnb</Output>
+      <Time>2013-03-06T16:15:12-06:00</Time>
+    </Item>
+    <Item>
+      <Source>4Type.png</Source>
+      <Name>4Type</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Noam\Documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\4Type.xnb</Output>
+      <Time>2013-03-06T16:15:12-06:00</Time>
+    </Item>
+    <Item>
+      <Source>4TypeSelected.png</Source>
+      <Name>4TypeSelected</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Noam\Documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\4TypeSelected.xnb</Output>
+      <Time>2013-03-06T16:15:12-06:00</Time>
+    </Item>
+    <Item>
+      <Source>5Type.png</Source>
+      <Name>5Type</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Noam\Documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\5Type.xnb</Output>
+      <Time>2013-03-06T16:15:12-06:00</Time>
+    </Item>
+    <Item>
+      <Source>5TypeSelected.png</Source>
+      <Name>5TypeSelected</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Noam\Documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\5TypeSelected.xnb</Output>
+      <Time>2013-03-06T16:15:12-06:00</Time>
+    </Item>
+    <Item>
+      <Source>6Type.png</Source>
+      <Name>6Type</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Noam\Documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\6Type.xnb</Output>
+      <Time>2013-03-06T16:15:12-06:00</Time>
+    </Item>
+    <Item>
+      <Source>6TypeSelected.png</Source>
+      <Name>6TypeSelected</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Noam\Documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\6TypeSelected.xnb</Output>
+      <Time>2013-03-06T16:15:12-06:00</Time>
+    </Item>
+    <Item>
+      <Source>SelectionBack.jpg</Source>
+      <Name>SelectionBack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Noam\Documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\SelectionBack.xnb</Output>
+      <Time>2013-03-21T00:10:43.0598824-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Pixel.JPG</Source>
+      <Name>Pixel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Noam\Documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Pixel.xnb</Output>
+      <Time>2013-03-06T18:26:28-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Battle.png</Source>
+      <Name>Battle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Noam\Documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\Battle.xnb</Output>
+      <Time>2013-03-06T22:29:50-06:00</Time>
+    </Item>
+    <Item>
+      <Source>ClearPic.png</Source>
+      <Name>ClearPic</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Noam\Documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\ClearPic.xnb</Output>
+      <Time>2013-03-08T14:48:38-06:00</Time>
+    </Item>
+    <Item>
+      <Source>NormalFont.spritefont</Source>
+      <Name>NormalFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Noam\Documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\NormalFont.xnb</Output>
+      <Time>2013-03-05T21:16:16-06:00</Time>
+    </Item>
+    <Item>
+      <Source>titleFont.spritefont</Source>
+      <Name>titleFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Noam\Documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\titleFont.xnb</Output>
+      <Time>2013-03-05T21:42:24-06:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Noam\Documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj PokemonContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Noam\Documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Noam\Documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj PokemonContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Noam\Documents\Visual Studio 2010\Projects\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\APStat Proj Pokemon\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-01-23T15:34:47.546276-06:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

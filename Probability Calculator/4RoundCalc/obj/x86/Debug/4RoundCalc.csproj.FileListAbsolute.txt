@@ -1,0 +1,4 @@
+c:\users\noam\documents\visual studio 2010\Projects\Probability Calculator\4RoundCalc\bin\Debug\4RoundCalc.exe
+c:\users\noam\documents\visual studio 2010\Projects\Probability Calculator\4RoundCalc\bin\Debug\4RoundCalc.pdb
+c:\users\noam\documents\visual studio 2010\Projects\Probability Calculator\4RoundCalc\obj\x86\Debug\4RoundCalc.exe
+c:\users\noam\documents\visual studio 2010\Projects\Probability Calculator\4RoundCalc\obj\x86\Debug\4RoundCalc.pdb

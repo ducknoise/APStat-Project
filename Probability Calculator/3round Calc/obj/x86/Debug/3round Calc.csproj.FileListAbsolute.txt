@@ -1,0 +1,4 @@
+c:\users\noam\documents\visual studio 2010\Projects\Probability Calculator\3round Calc\bin\Debug\3round Calc.exe
+c:\users\noam\documents\visual studio 2010\Projects\Probability Calculator\3round Calc\bin\Debug\3round Calc.pdb
+c:\users\noam\documents\visual studio 2010\Projects\Probability Calculator\3round Calc\obj\x86\Debug\3round Calc.exe
+c:\users\noam\documents\visual studio 2010\Projects\Probability Calculator\3round Calc\obj\x86\Debug\3round Calc.pdb
